@@ -75,9 +75,7 @@ ul{
 }
 img{
     vertical-align: middle;
-    width: 100px;
-    height: 80vh;
-    object-fit: cover;
+    max-width: 100%;
 }
 
 img.hidden{
